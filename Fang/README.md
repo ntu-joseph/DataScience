@@ -16,3 +16,4 @@ TestPreproceccing是修改過後的PREPROCECCING
 dataTemp是訓練用資料
 dataTest是測試用資料
 
+目前這種弄法調了好幾次參數，最高80.~
