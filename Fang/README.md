@@ -3,6 +3,10 @@
 
 TestTrain是訓練的PYTHON
 
+訓練完之後預測的結果
+請參考sample的格式，手動把行列標題加上去
+
+
 TestPreproceccing是修改過後的PREPROCECCING
 
 主要修改內容是增加權重的計算
